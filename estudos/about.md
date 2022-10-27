@@ -13,5 +13,17 @@ Exemplo:
 - O elemento ```<canvas>``` deve possuir um id para ser referenciado pelo JavaScript.
 - A largura e a altura devem ser especificadas.
 - Podemos ter mais de um elemento canvas em uma página HTML.
+
+## Desenhando na tela
+
+- O ```getContext()``` é um objeto que possui propriedades e métodos para desenhar. 
+    - Ex.: ```var ctx = canvas.getContext("2d");```
+- Algumas propriedades:
+    - ``` ctx.fillStyle = "#FF0000"; ```
+- Alguns métodos:
+    - ``` ctx.fillRect(0, 0, 150, 75);  ```
+
+
+
     
     
