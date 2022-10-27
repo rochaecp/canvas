@@ -21,7 +21,7 @@ Exemplo:
 - Algumas propriedades:
     - ``` ctx.fillStyle = "#FF0000"; ```
 - Alguns métodos:
-    - ``` ctx.fillRect(0, 0, 150, 75);  ```
+    - ``` ctx.fillRect(0, 0, 150, 75);  ``` -  fillRect( x, y, width, height )
 
 
 
